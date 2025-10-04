@@ -22,7 +22,7 @@ Este projeto utiliza uma convenção própria para identificar o estágio de cad
   - `v` = Versão
   - `0.1` = Número da versão (major.minor)
 
-### 🧪 Versão de Teste
+### Versão de Teste
 
 - **Formato:** `vtX.Y`
 - **Exemplo:** `vt0.1`
@@ -32,3 +32,12 @@ Este projeto utiliza uma convenção própria para identificar o estágio de cad
 
 Essa distinção permite identificar rapidamente se uma versão estável ou experimental está em uso.
 
+---
+
+## Tecnologias Utilizadas
+
+- **HTML5:** Estrutura semântica e acessível.
+- **CSS3:** Estilização responsiva com animações e transições.
+- **JavaScript (Vanilla):** Manipulação dinâmica de elementos e lógica de interação.
+- **Git & GitHub:** Controle de versões e colaboração.
+- **VS Code:** Ambiente de desenvolvimento otimizado.
